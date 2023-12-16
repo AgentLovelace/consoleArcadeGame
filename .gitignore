@@ -1,0 +1,6 @@
+# +--- IDE config dir
+.vscode/
+.idea/
+
+# +--- Generate exe
+*.exe
